@@ -24,7 +24,7 @@ Third Party Component Licenses:
 * ``tinycore/iptables.tcz`` contains software from [Netfilter][netfilter]
   licensed under the [GNU GPLv2 License][gplv2-license].
 
-<https://github.com/me-box/store-video>
+<https://github.com/tsh2/store-video>
 
 [docker]: https://www.docker.com/
 [apache-2.0-license]: https://github.com/docker/docker/blob/master/LICENSE
