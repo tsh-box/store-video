@@ -7,7 +7,7 @@
   "author"       : "Dominic Price <dominic.price@nottingham.ac.uk>",
   "license"      : "MIT",
 	"databox-type" : "store",
-  "homepage"     : "https://github.com/tsh2/store-video",
+  "homepage"     : "https://github.com/tsh-box/store-video",
 
   "tags": [
     "store",
@@ -16,7 +16,7 @@
 
   "repository": {
     "type" : "git",
-    "url"  : "git+https://github.com/tsh2/store-video.git"
+    "url"  : "git+https://github.com/tsh-box/store-video.git"
   },
 
   "network-permissions"   : [],
